@@ -22,3 +22,5 @@
 
 // Generics in interfaces
 // --------------------------
+
+export default {};
