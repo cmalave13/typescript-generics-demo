@@ -8,6 +8,14 @@
     "build": "tsc && vite build",
     "preview": "vite preview"
   },
+  "eslintConfig": {
+    "extends": "@jrock2004/eslint-config",
+    "rules": {
+      "@typescript-eslint/ban-types": "off",
+      "@typescript-eslint/no-unused-vars": "off",
+      "no-unused-vars": "off"
+    }
+  },
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
