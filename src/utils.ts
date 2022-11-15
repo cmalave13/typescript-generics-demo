@@ -11,14 +11,11 @@
 // Simple example of generics
 // --------------------------
 
-
 // Show example of tuples and generics
 // --------------------------
 
-
 // Constrain/extend what generics can be passed in
 // --------------------------
-
 
 // Generics in interfaces
 // --------------------------
